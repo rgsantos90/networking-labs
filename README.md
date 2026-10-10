@@ -26,7 +26,7 @@ This portfolio showcases practical networking labs focused on Cisco technologies
 |-----|-------|--------|
 | 01 | VLANs & Trunking             | Completed |
 | 02 | Inter-VLAN Routing           | Completed |
-| 03 | Spanning Tree Protocol (STP) | Planned |
+| 03 | Spanning Tree Protocol (STP) | Completed |
 | 04 | EtherChannel                 | Planned |
 | 05 | Static Routing               | Planned |
 | 06 | OSPF                         | Planned |
@@ -48,6 +48,12 @@ Configured SALES and SUPPORT VLANs across two switches, established an 802.1Q tr
 Configured router-on-a-stick with VLAN gateways, verified inter-VLAN connectivity, and resolved an administratively down router interface.
 
 [View Lab 02](https://github.com/rgsantos90/inter-vlan-routing)
+
+### Lab 03 — Spanning Tree Protocol (STP)
+
+Configured primary and backup root bridges in a redundant three-switch network. Verified STP port roles, alternate path activation after a link failure, and root bridge failover and recovery.
+
+[View Lab 03](https://github.com/rgsantos90/spanning-tree-protocol)
 
 ## Goal
 The goal of this portfolio is to demonstrate my practical networking knowledge through hands-on configuration, testing, troubleshooting and technical documentation.
